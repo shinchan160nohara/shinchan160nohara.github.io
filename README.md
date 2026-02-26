@@ -1,1 +1,0 @@
-# shinchan160nohara.github.io
