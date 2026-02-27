@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>National Anthem</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: linear-gradient(white, lightgreen);
+      text-align: center;
+      padding: 20px;
+    }
+    h1 { color: navy; }
+    p { font-size: 18px; line-height: 1.6; }
+    a { text-decoration: none; color: white; background: navy; padding: 10px 20px; border-radius: 20px; }
+  </style>
+</head>
+<body>
+
+<h1>Jana Gana Mana</h1>
+
+<p>
+Jana gana mana adhinayaka jaya he<br>
+Bharata bhagya vidhata<br>
+Punjab Sindh Gujarat Maratha<br>
+Dravida Utkala Banga<br>
+Vindhya Himachala Yamuna Ganga<br>
+Uchchala jaladhi taranga<br>
+Tava shubha name jage<br>
+Tava shubha ashish mage<br>
+Gahe tava jaya gatha<br>
+Jana gana mangala dayaka jaya he<br>
+Bharata bhagya vidhata<br>
+Jaya he, jaya he, jaya he<br>
+Jaya jaya jaya jaya he
+</p>
+
+<a href="slide2.html">Next →</a>
+
+</body>
+</html><audio autoplay loop>
+  <source src="jana_gana_mana.mp3" type="audio/mpeg">
+</audio><audio controls autoplay loop>
+  <source src="jana_gana_mana.mp3" type="audio/mpeg">
+</audio>
